@@ -1,5 +1,7 @@
 # LayRip-Account-Gen
-lay.rip account creator + profile setter
+RELEASE AT 25 STARS
+
+<h3>Account Creator</h3>
 
 + Free Email Creator
 + Bio Setter
