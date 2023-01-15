@@ -2,6 +2,8 @@
 lay.rip account creator + profile setter
 
 + Free Email Creator
++ Bio Setter
++ Pfp Setter
 + Cloudflare Bypass
 + NextAuth Bypass
 
