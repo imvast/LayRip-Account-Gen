@@ -1,5 +1,5 @@
 # LayRip-Account-Gen
-RELEASE AT 25 STARS
+RELEASING SOON
 
 <h3>Account Creator</h3>
 
